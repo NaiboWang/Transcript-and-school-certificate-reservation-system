@@ -1,0 +1,31 @@
+/* ---------------------- Blueslate nav ---------------------- */
+.blue #slatenav{position:relative;display:block;height:42px;font-size:16px;font-weight:bold;padding:0 15% 0 15%;background:transparent url(../images/blueslate_background.gif) repeat-x top left;font-family:Arial,Verdana,Helvitica,sans-serif;text-transform:uppercase;}
+.blue #slatenav ul{margin:0;padding:0;list-style-type:none;width:auto;}
+.blue #slatenav ul li{display:block;float:left;margin:0 1px 0 0;}
+.blue #slatenav ul li a{display:block;float:left;color:#D5F1FF;text-decoration:none;padding:14px 22px 0 22px;height:28px;}
+.blue #slatenav ul li a:hover,.blue #slatenav ul li a.current{color:#fff;background:transparent url(../images/blueslate_backgroundOVER.gif) no-repeat top center;}
+/* ---------------------- END Blueslate nav ---------------------- */
+
+/* ---------------------- Greenslate nav ---------------------- */
+.green #slatenav{position:relative;display:block;height:42px;font-size:16px;font-weight:bold;padding:0 15% 0 15%;background:transparent url(../images/greenslate_background.gif) repeat-x top left;font-family:Arial,Verdana,Helvitica,sans-serif;text-transform:uppercase;}
+.green #slatenav ul{margin:0px;padding:0;list-style-type:none;width:auto;}
+.green #slatenav ul li{display:block;float:left;margin:0 1px 0 0;}
+.green #slatenav ul li a{display:block;float:left;color:#EEFFDF;text-decoration:none;padding:14px 22px 0 22px;height:28px;}
+.green #slatenav ul li a:hover,.green #slatenav ul li a.current{color:#fff;background:transparent url(../images/greenslate_backgroundOVER.gif) no-repeat top center;}
+/* ---------------------- END Greenslate nav ---------------------- */
+
+/* ---------------------- Redslate nav ---------------------- */
+.red #slatenav{position:relative;display:block;height:42px;font-size:16px;font-weight:bold;padding:0 15% 0 15%;background:transparent url(../images/redslate_background.gif) repeat-x top left;font-family:Arial,Verdana,Helvitica,sans-serif;text-transform:uppercase;}
+.red #slatenav ul{margin:0px;padding:0;list-style-type:none;width:auto;}
+.red #slatenav ul li{display:block;float:left;margin:0 1px 0 0;}
+.red #slatenav ul li a{display:block;float:left;color:#FECCC3;text-decoration:none;padding:14px 22px 0 22px;height:28px;}
+.red #slatenav ul li a:hover,.red #slatenav ul li a.current{color:#fff;background:transparent url(../images/redslate_backgroundOVER.gif) no-repeat top center;}
+/* ---------------------- END Redslate nav ---------------------- */
+
+/* ---------------------- Purpleslate nav ---------------------- */
+.purple #slatenav{position:relative;display:block;height:42px;font-size:16px;font-weight:bold;padding:0 15% 0 15%;background:transparent url(../images/purpleslate_background.gif) repeat-x top left;font-family:Arial,Verdana,Helvitica,sans-serif;text-transform:uppercase;}
+.purple #slatenav ul{margin:0px;padding:0;list-style-type:none;width:auto;}
+.purple #slatenav ul li{display:block;float:left;margin:0 1px 0 0;}
+.purple #slatenav ul li a{display:block;float:left;color:#FBDAFA;text-decoration:none;padding:14px 22px 0 22px;height:28px;}
+.purple #slatenav ul li a:hover,.purple #slatenav ul li a.current{color:#fff;background:transparent url(../images/purpleslate_backgroundOVER.gif) no-repeat top center;}
+/* ---------------------- END Purpleslate nav ---------------------- */

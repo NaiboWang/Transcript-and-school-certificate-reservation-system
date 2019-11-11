@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:num;datatype:3" />
+	<infoitem key="UD_Recordset2" value="name:num;datatype:3" />
+	<infoitem key="UD_Recordset3" value="name:num;datatype:3" />
+	<infoitem key="UD_Recordset4" value="name:num;datatype:3" />
+	<infoitem key="UD_Recordset5" value="name:num;datatype:3" />
+	<infoitem key="UD_Recordset6" value="name:num;datatype:3" />
+	<infoitem key="UD_Recordset7" value="name:ID;datatype:3,name:学号;datatype:202,name:姓名;datatype:202,name:状态;datatype:202,name:回复;datatype:202,name:时间;datatype:7,name:数量;datatype:3,name:备注;datatype:202" />
+	<infoitem key="UD_Recordset8" value="name:ID;datatype:3,name:学号;datatype:202,name:姓名;datatype:202,name:状态;datatype:202,name:回复;datatype:202,name:时间;datatype:7,name:数量;datatype:3,name:备注;datatype:202" />
+	<infoitem key="UD_Recordset9" value="name:ID;datatype:3,name:预约类型;datatype:202,name:学号;datatype:202,name:姓名;datatype:202,name:状态;datatype:202,name:回复;datatype:202,name:时间;datatype:7,name:数量;datatype:3,name:备注;datatype:202" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:ID;datatype:3,name:学号;datatype:202,name:姓名;datatype:202,name:性别;datatype:202,name:身份证号;datatype:202,name:入学年份;datatype:202,name:班级;datatype:202,name:电话号码;datatype:202,name:专业;datatype:202,name:状态;datatype:202,name:回复;datatype:202,name:时间;datatype:7,name:数量;datatype:3,name:备注;datatype:202" />
+</info>

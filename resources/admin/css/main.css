@@ -1,0 +1,88 @@
+﻿.navbg ul, li{
+	margin:0;
+	padding:0;
+	list-style-type:none;
+}
+.navbg a:link,.navbg a:visited {
+	text-decoration:none;
+	color:#333333;
+}
+.navbg a:hover {
+	text-decoration: underline;
+	color:#DD534F;
+	text-decoration:none;
+}
+
+.col960 {
+	width:72%;
+	margin:auto;
+}
+.navbg {
+	height:40px;
+	width: 100%;
+	background:#DD534F /*#08A5E0*/;
+	box-shadow: 1px 1px 7px #999;
+}
+#navul li {
+	float: left;
+	margin-right: 1px;
+	width:130px;
+	height:40px;
+	position:relative;
+	text-align:center;
+	line-height:40px;
+}
+#navul li.navhome {
+	text-align:left;
+	padding:0 0px 0 40px;
+	width:60px;
+}
+#navul li a:link, #navul li a:visited {
+	color:#FFFFFF;
+}
+#navul li ul {
+	display:none;
+	position:absolute;
+	z-index:10000;
+	top:38px;
+	left:-1px;
+	background:/*#006D96*/#08A5E0;
+	border:/*#004E6C*/#08A5E0 1px solid;
+	border-bottom:none;
+}
+#navul li ul li {
+	display:block;
+	width:130px;
+	float:none;
+	margin-right:0px;
+	height:28px;
+	position:relative;
+	line-height:28px;
+	border-bottom:#004E6C 1px solid;
+	font-size:12px;
+}
+#navul li.navmoon {
+	background:#006D96;
+	border:#004E6C 1px solid;
+	width:130px;
+	height:38px;
+	line-height:38px;
+}
+#navul li.navmoon a {
+	color:#FFFFFF;
+}
+#navul li.navhome a:hover {
+	color:#FCFF00;
+}
+#navul li.navmoon ul {
+	display:block;
+}
+#navul li.navmoon ul a {
+	display:block;
+	width:130px;
+	height:28px;
+	line-height:28px;
+}
+#navul li.navmoon ul a:hover {
+	background:#000000;
+}

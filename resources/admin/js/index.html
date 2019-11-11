@@ -1,0 +1,43 @@
+/***************
+* 调整图片格式 *
+***************/
+<script>
+function fn(){
+	var main1=document.getElementById('main1').style.height;
+	var main2=document.getElementById('main2').style.height;
+	alert(typeof(main1));
+	if(main1.length>main2.length)
+	{
+		main2.length=main1.length;
+		alert(main1);
+	}
+	else if(main1.length==main2.length))
+	{
+		var tmp=true;
+		for(var i=0;i<main1.length;i++)
+		{
+			if(main1[i]>main2[i])
+			{
+				main2=main1;
+				tmp=false;
+				alert(main2);
+				break;
+			}
+			else if(main1[i]<main2[i])
+			{
+				main1=main2;
+				tmp=false;
+				break;
+			}
+		}
+		if(tmp) {}
+	}
+
+}
+window.onload=fn;
+</script>
+<div id="main1" style="height:300px;background-color:red;">
+</div>
+<div id="main2" style="height:200px;background-color:green">
+</div>
+
